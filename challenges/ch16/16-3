@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+echo As eric6 my python IDE keeps up with where my python project are I do not need to update my .profile for 
+echo python_projects
+
+

@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+echo You can use either just
+echo cd
+echo as it will go to your home directory.
+echo or
+echo type the cd command with the absolute path, relative path or $HOME
+
